@@ -36,7 +36,7 @@
 
 ## 🌐 Kontakt
 
-- GitHub: https://github.com/TVOJ_USERNAME
+- GitHub: https://github.com/amarselic
 - Email: etsamarselic@gmail.com
 
 ---
