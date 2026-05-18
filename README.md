@@ -35,7 +35,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/TVOJ_USERNAME/TVOJ_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/amarselic/amarselic/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🌐 Kontakt
