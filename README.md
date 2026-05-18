@@ -1,5 +1,13 @@
 # project
-# 👋 Zdravo, ja sam Amar.
+<div align="center">
+
+# 👋 Hi, I'm Amar
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+![](https://komarev.com/ghpvc/?username=amarselic&color=blueviolet&style=for-the-badge)
 
 💻 Developer iz Bosne i Hercegovine  
 🚀 Fokus: Web Development / Software Development  
@@ -34,19 +42,71 @@
 
 ---
 
-## 🌐 Kontakt
+## 🏆 GitHub Trophies
 
-- GitHub: https://github.com/amarselic
-- Email: etsamarselic@gmail.com
+![](https://github-profile-trophy.vercel.app/?username=amarselic&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
+</picture>
+
+---
+
+## 📚 Currently Learning
+
+- React.js
+- Node.js
+- APIs
+- GitHub Actions
+- Backend Development
+
+---
+
+## 🎯 2026 Goals
+
+- Build full stack applications
+- Learn TypeScript
+- Contribute to open source
+- Create portfolio website
+- Master React & Node.js
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/amarselic)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 Project 1
-
+Awesome web application built with React.
 
 ### 📌 Project 2
-
+Modern responsive website.
 
 ### 📌 Project 3
+Node.js backend API project.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+</div>
