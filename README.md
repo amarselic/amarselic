@@ -48,15 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
-</picture>
-
----
 
 ## 📚 Currently Learning
 
@@ -97,13 +88,13 @@
 ## 🚀 Featured Projects
 
 ### 📌 Project 1
-Awesome web application built with React.
+
 
 ### 📌 Project 2
-Modern responsive website.
+
 
 ### 📌 Project 3
-Node.js backend API project.
+
 
 ---
 
