@@ -35,27 +35,11 @@
 ---
 ## 🐍 Contribution Snake
 
-import { generateSnakeAnimation } from "generate-snake-animation";
-
-const outputs = [
-  {
-    format: "svg",
-    drawOptions: {
-      // ..
-    },
-  },
-];
-
-const results = await generateSnakeAnimation(
-  {
-    platform: "github", // supports github, gitlab and forgejo (codeberg)
-    username: "platane",
-    githubToken: process.env.GITHUB_TOKEN,
-  },
-  outputs,
-);
-
-fs.writeFileSync("snake.svg", results[0]);
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
+</picture>
 
 ---
 ## 🌐 Kontakt
