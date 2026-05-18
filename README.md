@@ -35,7 +35,27 @@
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/amarselic/blob/output/github-contribution-grid-snake.svg)
+import { generateSnakeAnimation } from "generate-snake-animation";
+
+const outputs = [
+  {
+    format: "svg",
+    drawOptions: {
+      // ..
+    },
+  },
+];
+
+const results = await generateSnakeAnimation(
+  {
+    platform: "github", // supports github, gitlab and forgejo (codeberg)
+    username: "platane",
+    githubToken: process.env.GITHUB_TOKEN,
+  },
+  outputs,
+);
+
+fs.writeFileSync("snake.svg", results[0]);
 
 ---
 ## 🌐 Kontakt
