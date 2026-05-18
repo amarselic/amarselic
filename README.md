@@ -33,15 +33,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=amarselic&theme=tokyonight)
 
 ---
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amarselic/amarselic/output/github-snake.svg" />
-</picture>
-
----
 ## 🌐 Kontakt
 
 - GitHub: https://github.com/amarselic
