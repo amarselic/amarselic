@@ -87,7 +87,7 @@
 
 ## 🚀 Featured Projects
 
-### 📌 Project 1
+### 📌 [Flowcode-project](https://github.com/amarselic/Flowcode-project)
 
 
 ### 📌 Project 2
